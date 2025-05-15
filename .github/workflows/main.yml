@@ -1,36 +1,22 @@
-name: Zola on GitHub Pages
-
+name: Deploy to GitHub Pages
 on:
   push:
     branches:
       - main
-  pull_request:
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/main'
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v4
-      - name: Build only
-        uses: shalzz/zola-deploy-action@v0.20.0
-        env:
-          BUILD_DIR: docs
-          BUILD_ONLY: true
-          BUILD_FLAGS: --drafts
-          # A GitHub token is not necessary when BUILD_ONLY is true
-          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  build_and_deploy:
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-      - name: Checkout main
-        uses: actions/checkout@v4
-      - name: Build and deploy
-        uses: shalzz/zola-deploy-action@v0.20.0
-        env:
-          BUILD_DIR: docs
-          PAGES_BRANCH: gh-pages
-          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+      - uses: actions/checkout@v4
+      - name: Install Zola
+        run: |
+          wget https://github.com/getzola/zola/releases/download/v0.19.1/zola-v0.19.1-x86_64-unknown-linux-gnu.tar.gz
+          tar -xzf zola-v0.19.1-x86_64-unknown-linux-gnu.tar.gz
+          mv zola /usr/local/bin/
+      - name: Build
+        run: zola build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.DEPLOY_TOKEN }}
+          publish_dir: ./public
