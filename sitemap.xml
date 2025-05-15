@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://kohoolatesen.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/blog/lorem/</loc>
+        <lastmod>1970-01-02</lastmod>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/hall-of-fame/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/hall-of-fame/lorem/</loc>
+        <lastmod>1970-01-02</lastmod>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/hall-of-fame/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/tags/ipsum/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/tags/lorem/</loc>
+    </url>
+</urlset>
