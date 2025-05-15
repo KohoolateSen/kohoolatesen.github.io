@@ -222,8 +222,8 @@ show_repo = true
 links = [
   # {url = "https://codeberg.org/daudix/duckquill", name = "Repo"},
   # {url = "$BASE_URL/demo", name = "Demo"},
-  { url = "@/hall-of-fame/_index.md", name = "Hall of Fame"},
   { url = "@/blog/_index.md", name = "Blog" },
+  { url = "@/hall-of-fame/_index.md", name = "Hall of Fame"},
   { url = "https://github.com/KohoolateSen", name = "Github"}
 ]
 
