@@ -5,7 +5,7 @@ page_template = "article.html"
 paginate_by = 8 
 +++
 
-[![Abstract Tech Design](https://pbs.twimg.com/media/Cfoja5xUUAAGzwT?format=jpg&name=large)](https://pbs.twimg.com/media/Cfoja5xUUAAGzwT?format=jpg&name=large)
+![Fallout](https://res.cloudinary.com/dly5kd3h5/image/upload/v1747465698/fallout_rntarj.jpg)
 
 # Writings of Authors
 

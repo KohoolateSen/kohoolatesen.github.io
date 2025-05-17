@@ -4,7 +4,8 @@ template = "article_list.html"
 page_template = "article.html"
 paginate_by = 8 
 +++
-[![Ancient Computer](https://www.thoughtco.com/thmb/b6GQkWD-BBjPRJ1wlEY2mCQtpDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-107636032-293dc66802a54c4685892d2bb7831ef5.jpg)](https://www.thoughtco.com/what-is-the-antikythera-mechanism-118101)
+
+![Hall of Fame](https://res.cloudinary.com/dly5kd3h5/image/upload/v1747465698/hall-of-fame_r3to9k.jpg)
 
 # Silicon Saints
 
