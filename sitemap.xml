@@ -4,11 +4,14 @@
         <loc>https://kohoolatesen.github.io/</loc>
     </url>
     <url>
+        <loc>https://kohoolatesen.github.io/about/</loc>
+    </url>
+    <url>
         <loc>https://kohoolatesen.github.io/blog/</loc>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/blog/lorem/</loc>
-        <lastmod>1970-01-02</lastmod>
+        <loc>https://kohoolatesen.github.io/blog/bcp38/</loc>
+        <lastmod>2025-05-16</lastmod>
     </url>
     <url>
         <loc>https://kohoolatesen.github.io/blog/page/1/</loc>
@@ -27,9 +30,18 @@
         <loc>https://kohoolatesen.github.io/tags/</loc>
     </url>
     <url>
+        <loc>https://kohoolatesen.github.io/tags/bcp38/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/tags/cybersecurity/</loc>
+    </url>
+    <url>
         <loc>https://kohoolatesen.github.io/tags/ipsum/</loc>
     </url>
     <url>
         <loc>https://kohoolatesen.github.io/tags/lorem/</loc>
+    </url>
+    <url>
+        <loc>https://kohoolatesen.github.io/tags/networking/</loc>
     </url>
 </urlset>

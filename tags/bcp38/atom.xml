@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>KohooolateSen</title>
+    <title>KohooolateSen - BCP38</title>
     <subtitle>Network engineer &amp; Programmer</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://kohoolatesen.github.io/atom.xml"/>
+    <link rel="self" type="application/atom+xml" href="https://kohoolatesen.github.io/tags/bcp38/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://kohoolatesen.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-05-16T00:00:00+00:00</updated>
-    <id>https://kohoolatesen.github.io/atom.xml</id>
+    <id>https://kohoolatesen.github.io/tags/bcp38/atom.xml</id>
     <entry xml:lang="en">
         <title>BCP38, The Guardian Against IP Spoofing</title>
         <published>2025-05-16T00:00:00+00:00</published>
@@ -106,26 +106,6 @@ against internal threats or attacks that exploit legitimate IP ranges,
 requiring additional security measures to address such risks.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;conlusion&quot;&gt;Conlusion&lt;&#x2F;h2&gt;
 &lt;p&gt;While BCP38 plays a crucial role in preventing such threats, it is not sufficient on its own. It represents just one of many measures and standards used to mitigate these types of attacks.&lt;&#x2F;p&gt;
-</content>
-        
-    </entry>
-    <entry xml:lang="en">
-        <title>Ipsum</title>
-        <published>1970-01-02T00:00:00+00:00</published>
-        <updated>1970-01-02T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            John Ipsum
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://kohoolatesen.github.io/hall-of-fame/lorem/"/>
-        <id>https://kohoolatesen.github.io/hall-of-fame/lorem/</id>
-        
-        <content type="html" xml:base="https://kohoolatesen.github.io/hall-of-fame/lorem/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
-&lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea bona praeterita grata recordatione renovata delectant. Est.&lt;&#x2F;p&gt;
-&lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea.&lt;&#x2F;p&gt;
 </content>
         
     </entry>
