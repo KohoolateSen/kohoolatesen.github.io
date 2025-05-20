@@ -4,7 +4,7 @@ title = "About"
 
 This section provides brief information about the authors and their backgrounds.
 
-### Sadra ( aka KohoolateSen )
+### Sadra 
 
 <aside>
 <figure>

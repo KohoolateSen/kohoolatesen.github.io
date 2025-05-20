@@ -1,0 +1,24 @@
+.glow-prompt {
+    	--accent-color: #f1f1f1;
+    	--text-shadow-1: hsl(from var(--accent-color) h s l / 0.2);
+    	--text-shadow-2: hsl(from var(--accent-color) h calc(s * 1.5) l / 0.4);
+    	color: var(--accent-color) !important;
+    	text-shadow: var(--text-shadow-2) 0 0 0.08rem, var(--text-shadow-2) 0 0 0.25rem;
+    	display: inline-block;
+    	margin-left: 10px;
+    	font-family: monospace;
+}
+
+.glow-shellinfo
+	--accent-color: #bb92f7;
+	--text-shadow-1: hsl(from var(--accent-color) h s l / 0.35);
+	--text-shadow-2: hsl(from var(--accent-color) h calc(s * 1.8) l / 0.5);
+	color: var(--accent-color) !important;
+	text-shadow:
+	var(--text-shadow-2) 0 0 0.15rem,
+	var(--text-shadow-2) 0 0 0.4rem,
+	var(--text-shadow-2) 0 0 0.8rem;
+	display: inline-block;
+	margin-left: 10px;
+	font-family: monospace;
+ }

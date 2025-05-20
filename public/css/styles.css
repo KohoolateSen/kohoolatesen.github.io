@@ -1,0 +1,77 @@
+#main-page-logo {
+  width: 35%;
+  height: auto;
+  margin-bottom: 5%;
+}	
+
+/* Base styles for terminal text */
+.glow-prompt,
+.glow-output,
+.glow-shellinfo {
+  margin-left: 10px;
+  font-family: monospace, monospace;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  line-height: 1.5;
+  font-size: 0.95rem;
+}
+
+/* Glow settings for prompts and outputs (mint green) */
+.glow-prompt,
+.glow-output {
+  --glow-light: rgba(196, 255, 214, 0.4);   /* increased light glow */
+  --glow-strong: rgba(196, 255, 214, 0.8);  /* increased strong glow */
+
+  color: #c4ffd6;
+  text-shadow:
+    0 0 0.2rem var(--glow-light),
+    0 0 0.6rem var(--glow-strong);
+}
+
+/* Shell info (green glow) */
+.glow-shellinfo {
+  --glow-light: rgba(0, 255, 0, 0.3);   /* increased light glow */
+  --glow-strong: rgba(0, 255, 0, 0.6);  /* increased strong glow */
+
+  color: #00ff00;
+  text-shadow:
+    0 0 0.6rem var(--glow-light),
+    0 0 0.8rem var(--glow-strong);
+}
+
+/* Display settings */
+.glow-prompt,
+.glow-output,
+.glow-shellinfo {
+  display: inline-block;
+}
+
+pre.glow-output {
+  display: block;
+  margin: 0 0 10px;
+  /* Do not override color here to allow #c4ffd6 to apply */
+}
+
+/* Utility display helpers */
+.block  { display: block;  margin-top: 5px; margin-bottom: 10px; }
+.inline { display: inline-block; }
+
+/* Reduce top margin for the pre tag with block class */
+pre.glow-output.block {
+  margin-top: 0 !important;
+}
+
+.container {
+  margin: 12px;
+}
+
+#typing {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 1.2rem;
+  text-align: center;
+  max-width: 600px;
+  color: #eaffdb;
+  width: 80%;
+  padding: 1rem;
+  margin: 0 auto; width: fit-content; text-align: center;
+}
