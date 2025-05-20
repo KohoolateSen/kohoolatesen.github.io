@@ -11,7 +11,7 @@ This section provides brief information about the authors and their backgrounds.
 <img src="https://res.cloudinary.com/dly5kd3h5/image/upload/v1747478504/oscar_myodcl.gif" 
      alt="Oscar GIF" 
      class="pixelated no-hover">
-<figcaption>KohoolateSen</figcaption>
+<figcaption>Sadra</figcaption>
 </figure>
 </aside>
 
