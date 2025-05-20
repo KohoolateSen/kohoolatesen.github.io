@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>KohooolateSen - Networking</title>
-    <subtitle>Network engineer &amp; Programmer</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://kohoolatesen.github.io/tags/networking/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://kohoolatesen.github.io/"/>
+    <title>Retrobute - Networking</title>
+    <subtitle>PRESS ENTER TO START</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://retrobute.github.io/tags/networking/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://retrobute.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-05-16T00:00:00+00:00</updated>
-    <id>https://kohoolatesen.github.io/tags/networking/atom.xml</id>
+    <id>https://retrobute.github.io/tags/networking/atom.xml</id>
     <entry xml:lang="en">
         <title>BCP38, The Guardian Against IP Spoofing</title>
         <published>2025-05-16T00:00:00+00:00</published>
@@ -18,10 +18,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kohoolatesen.github.io/blog/bcp38/"/>
-        <id>https://kohoolatesen.github.io/blog/bcp38/</id>
+        <link rel="alternate" type="text/html" href="https://retrobute.github.io/blog/bcp38/"/>
+        <id>https://retrobute.github.io/blog/bcp38/</id>
         
-        <content type="html" xml:base="https://kohoolatesen.github.io/blog/bcp38/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dly5kd3h5&#x2F;image&#x2F;upload&#x2F;v1747465704&#x2F;nature-image_qr7ang.webp#end&quot; alt=&quot;Nature Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://retrobute.github.io/blog/bcp38/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dly5kd3h5&#x2F;image&#x2F;upload&#x2F;v1747465704&#x2F;nature-image_qr7ang.webp#end&quot; alt=&quot;Nature Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;what-is-bcp38&quot;&gt;What Is BCP38?&lt;&#x2F;h2&gt;
 &lt;p&gt;BCP38 (Best Current Practice 38), also known as &lt;strong&gt;Ingress Filtering&lt;&#x2F;strong&gt; and defined in &lt;strong&gt;RFC 2827&lt;&#x2F;strong&gt;, is a security standard designed to prevent &lt;strong&gt;IP spoofing&lt;&#x2F;strong&gt; at the network edge. By validating source IP addresses, it ensures only legitimate traffic enters or exits a network.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;why-bcp38-matters&quot;&gt;Why BCP38 Matters&lt;&#x2F;h2&gt;

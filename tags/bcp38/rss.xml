@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-      <title>KohooolateSen - BCP38</title>
-      <link>https://kohoolatesen.github.io/</link>
-      <description>Network engineer &amp; Programmer</description>
+      <title>Retrobute - BCP38</title>
+      <link>https://retrobute.github.io/</link>
+      <description>PRESS ENTER TO START</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://kohoolatesen.github.io/tags/bcp38/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://retrobute.github.io/tags/bcp38/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
       <item>
           <title>BCP38, The Guardian Against IP Spoofing</title>
           <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
           <author>KohoolateSen</author>
-          <link>https://kohoolatesen.github.io/blog/bcp38/</link>
-          <guid>https://kohoolatesen.github.io/blog/bcp38/</guid>
-          <description xml:base="https://kohoolatesen.github.io/blog/bcp38/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dly5kd3h5&#x2F;image&#x2F;upload&#x2F;v1747465704&#x2F;nature-image_qr7ang.webp#end&quot; alt=&quot;Nature Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://retrobute.github.io/blog/bcp38/</link>
+          <guid>https://retrobute.github.io/blog/bcp38/</guid>
+          <description xml:base="https://retrobute.github.io/blog/bcp38/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dly5kd3h5&#x2F;image&#x2F;upload&#x2F;v1747465704&#x2F;nature-image_qr7ang.webp#end&quot; alt=&quot;Nature Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;what-is-bcp38&quot;&gt;What Is BCP38?&lt;&#x2F;h2&gt;
 &lt;p&gt;BCP38 (Best Current Practice 38), also known as &lt;strong&gt;Ingress Filtering&lt;&#x2F;strong&gt; and defined in &lt;strong&gt;RFC 2827&lt;&#x2F;strong&gt;, is a security standard designed to prevent &lt;strong&gt;IP spoofing&lt;&#x2F;strong&gt; at the network edge. By validating source IP addresses, it ensures only legitimate traffic enters or exits a network.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;why-bcp38-matters&quot;&gt;Why BCP38 Matters&lt;&#x2F;h2&gt;

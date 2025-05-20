@@ -1,47 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://kohoolatesen.github.io/</loc>
+        <loc>https://retrobute.github.io/</loc>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/about/</loc>
+        <loc>https://retrobute.github.io/about/</loc>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/blog/</loc>
+        <loc>https://retrobute.github.io/blog/</loc>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/blog/bcp38/</loc>
+        <loc>https://retrobute.github.io/blog/bcp38/</loc>
         <lastmod>2025-05-16</lastmod>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/blog/page/1/</loc>
+        <loc>https://retrobute.github.io/blog/page/1/</loc>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/hall-of-fame/</loc>
+        <loc>https://retrobute.github.io/tags/</loc>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/hall-of-fame/lorem/</loc>
-        <lastmod>1970-01-02</lastmod>
+        <loc>https://retrobute.github.io/tags/bcp38/</loc>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/hall-of-fame/page/1/</loc>
+        <loc>https://retrobute.github.io/tags/cybersecurity/</loc>
     </url>
     <url>
-        <loc>https://kohoolatesen.github.io/tags/</loc>
-    </url>
-    <url>
-        <loc>https://kohoolatesen.github.io/tags/bcp38/</loc>
-    </url>
-    <url>
-        <loc>https://kohoolatesen.github.io/tags/cybersecurity/</loc>
-    </url>
-    <url>
-        <loc>https://kohoolatesen.github.io/tags/ipsum/</loc>
-    </url>
-    <url>
-        <loc>https://kohoolatesen.github.io/tags/lorem/</loc>
-    </url>
-    <url>
-        <loc>https://kohoolatesen.github.io/tags/networking/</loc>
+        <loc>https://retrobute.github.io/tags/networking/</loc>
     </url>
 </urlset>
