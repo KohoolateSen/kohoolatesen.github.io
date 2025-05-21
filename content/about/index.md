@@ -2,9 +2,9 @@
 title = "About"
 +++
 
-This section provides brief information about the authors and their backgrounds.
+This section provides brief information about the authors.
 
-### Sadra 
+### Background 
 
 <aside>
 <figure>

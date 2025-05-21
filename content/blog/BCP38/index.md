@@ -1,5 +1,5 @@
 +++
-authors = ["KohoolateSen"]
+authors = ["Sadra"]
 title = "BCP38, The Guardian Against IP Spoofing"
 description = "How BCP38 acts as the frontline defense against IP spoofing, securing networks and mitigating DDoS attacks. (my very first blog post lol)"
 date = 2025-05-16

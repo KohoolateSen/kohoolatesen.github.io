@@ -3,7 +3,6 @@ insert_anchor_links = "left"
 title = "Home"
 +++
 
-
 <script src="/scripts/typewriter-core.js" defer></script>
 <script src="/scripts/typewriter.js" defer></script>
 <script src="/scripts/glitch-core.js" defer></script>
