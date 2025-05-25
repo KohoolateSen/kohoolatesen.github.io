@@ -27,11 +27,7 @@ title = "Home"
 
 <strong class="glow-shellinfo">[sadra@retrobute ~]$</strong><span class="glow-prompt"> cat ~/intro.txt</span>
 
-<span class="glow-output">Welcome to the Internet's Dumpster! But don’t be fooled — not all dumpsters are filled with trash. Not everyone is willing to dig through the mess — but for those who do, there are treasures waiting beneath the grime.
-
-This site is where I share my thoughts, tools, and tips mostly around networking, cybersecurity, programming, IT, and whatever else catches my interest in the tech world. You’ll find all that in the Blog section.
-
-Thanks for dropping by. Hope you find something that makes the dig worthwhile.
+<span class="glow-output">Welcome to the Internet's Dumpster! But don’t be fooled — not all dumpsters are filled with trash. Not everyone is willing to dig through the mess — but for those who do, there are treasures waiting beneath the grime. This site is where I share my thoughts, tools, and tips mostly around networking, cybersecurity, programming, IT, and whatever else catches my interest in the tech world. You’ll find all that in the Blog section. Thanks for dropping by. Hope you find something that makes the dig worthwhile.
 
 – Sadra
 </span>
